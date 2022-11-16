@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://scholar.social/@_dim_ma_">
+  <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+   </a>
+  <a href="https://twitter.com/_dim_ma_">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!--
 **dimitra-maoutsa/dimitra-maoutsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
