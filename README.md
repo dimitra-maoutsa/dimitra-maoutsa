@@ -10,6 +10,9 @@ if you want to find out more about me you can visit either my new (under constru
   <a href="https://twitter.com/_dim_ma_">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://bsky.app/profile/dimma.bsky.social">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 
