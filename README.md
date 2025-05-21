@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 if you want to find out more about me you can visit either my new (under construction) academic website: [here](https://dimitra-maoutsa.github.io/) or go to my [old one](https://dimitra-maoutsa.gitlab.io/) (which contains information up to the end of my PhD and cannot be updated anymore)
 
